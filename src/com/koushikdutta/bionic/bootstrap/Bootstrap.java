@@ -10,7 +10,7 @@ import java.util.Vector;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipFile;
 
-import org.cvpcs.android.bionicbootstrap.R;
+import com.koushikdutta.bionic.bootstrap.R;
 
 import android.app.Activity;
 import android.app.AlertDialog;
