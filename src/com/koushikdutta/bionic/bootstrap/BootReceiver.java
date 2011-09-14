@@ -1,4 +1,4 @@
-package org.cvpcs.android.bionicbootstrap;
+package com.koushikdutta.bionic.bootstrap;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;

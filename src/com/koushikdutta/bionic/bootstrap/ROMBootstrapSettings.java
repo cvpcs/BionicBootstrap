@@ -1,4 +1,4 @@
-package org.cvpcs.android.bionicbootstrap;
+package com.koushikdutta.bionic.bootstrap;
 
 import java.io.File;
 import java.io.FileInputStream;
